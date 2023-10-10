@@ -6,5 +6,5 @@ Blueprint project made following [the UE5 "Warehouse Wreckage" tutorial by Gamed
 
 [Download the executable here.](https://mofumofustudios.itch.io/tumble)  
 
-[](./ingame_screenshot.png)
+![](./ingame_screenshot.png)
 
